@@ -135,7 +135,7 @@ jobs:
       ANTHROPIC_WORKSPACE_ID: wrkspc_REPLACE_ME
       ANTHROPIC_SERVICE_ACCOUNT_ID: svac_REPLACE_ME
       ANTHROPIC_FEDERATION_RULE_ID: fdrl_REPLACE_ME
-      CLAUDE_MODEL: claude-opus-5-5
+      CLAUDE_MODEL: claude-sonnet-5-5
       SECRET_PATTERN: 'sk-ant-|ghs_|eyJ[A-Za-z0-9_-]{20,}\.'
       PR_DIR: claude-review-pr
     steps:
